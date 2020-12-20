@@ -1,47 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ce9f69d4c262536dbd7f41bd7d246aa",
+    "revision": "f23ef9d1ea8713690198b1e19338a89f",
     "url": "/index.html"
   },
   {
-    "revision": "d5614802c38d7dc70a25",
+    "revision": "bc7c7db4511f6f381b48",
     "url": "/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "aebaf2f8856ff90216ae",
+    "revision": "4d639088395416ef36db",
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "89e82144a3a72507a296",
+    "revision": "639a137dab73141e540d",
     "url": "/static/css/main.91308f57.chunk.css"
   },
   {
-    "revision": "5acc232fdd03a98d3011",
-    "url": "/static/js/2.fcdc6190.chunk.js"
+    "revision": "cb03bfc3bc12fbf9d103",
+    "url": "/static/js/2.82edaa9a.chunk.js"
   },
   {
-    "revision": "d5614802c38d7dc70a25",
-    "url": "/static/js/3.e87cb3bc.chunk.js"
+    "revision": "bc7c7db4511f6f381b48",
+    "url": "/static/js/3.55b2f134.chunk.js"
   },
   {
-    "revision": "aebaf2f8856ff90216ae",
-    "url": "/static/js/4.a0bdde84.chunk.js"
+    "revision": "4d639088395416ef36db",
+    "url": "/static/js/4.ffee154e.chunk.js"
   },
   {
-    "revision": "89e82144a3a72507a296",
-    "url": "/static/js/main.f53cdd9e.chunk.js"
+    "revision": "639a137dab73141e540d",
+    "url": "/static/js/main.4ba8472b.chunk.js"
   },
   {
-    "revision": "122259c82526269cd305",
-    "url": "/static/js/runtime-main.7b89c3d3.js"
+    "revision": "58818a49780d86064ab5",
+    "url": "/static/js/runtime-main.b72ee896.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "a247416ea3311e9b34375d82d8d69fa9",
+    "url": "/static/media/DeshonQala.a247416e.JPG"
+  },
+  {
+    "revision": "0bd8d50d48c824a4c89f81ab47fbb94b",
+    "url": "/static/media/IchanQala.0bd8d50d.JPG"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "5b50167135a57b7226b892de318c90e4",
+    "url": "/static/media/OquvQollanma.5b501671.JPG"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -56,8 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.68e84138.webp"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/static/media/developerActivity.59389695.svg"
+    "revision": "26bc4be4791ddf86e56c940ac61f518d",
+    "url": "/static/media/doniyor_main.26bc4be4.jpg"
+  },
+  {
+    "revision": "5b58551b59cdf1d95ee107452488e2e3",
+    "url": "/static/media/doniyor_working.5b58551b.jpg"
   },
   {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
@@ -72,24 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
