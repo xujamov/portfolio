@@ -17,11 +17,11 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/doniyorprince95",
+  github: "https://github.com/khujamov",
+  // linkedin: "https://www.linkedin.com/in/saadpasta/",
   gmail: "doniyorprince95@gmail.com",
-  gitlab: "https://gitlab.com/doniyorprince95",
-  facebook: "https://www.facebook.com/doniyor_xujamov",
-  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
+  // gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/khujamov",
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -89,6 +89,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
+      skillName: "java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
     }
@@ -102,15 +106,15 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design",  //Insert stack or technology you have experience in
-      progressPercentage: "90%"  //Insert relative proficiency in percentage
+      progressPercentage: "80%"  //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "85%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     }
   ]
 };
@@ -123,9 +127,9 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",  
-      company: "Facebook",
+      company: "I-One",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      date: "June 2017 – 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -133,17 +137,17 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",   
-      company: "Quora",
+      role: "Software Engineer",
+      company: "Inform Algo",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      date: "May 2020 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Software Engineer Intern",  
-      company: "Airbnb",
+      role: "Android Developer",
+      company: "Data",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      date: "Jan 2020 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
   ]
@@ -267,7 +271,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+99-9640145",
+  number: "+998-990340145",
   email_address: "doniyorprince95@gmail.com"
 };
 
